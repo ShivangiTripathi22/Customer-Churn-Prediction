@@ -138,7 +138,7 @@ The application will open in your browser.
 
 ## 🌐 Live Demo
 
-The Streamlit deployment link will be added here after deployment.
+https://customer-churn-prediction-08.streamlit.app
 
 ## 📌 Key Takeaway
 
